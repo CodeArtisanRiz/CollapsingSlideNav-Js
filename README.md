@@ -1,3 +1,3 @@
-# Collapsing Sliding Nav -Js
+# Collapsing Slide Nav -Js
 
 Toggle between Icons & Icons+Text
